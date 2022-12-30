@@ -14,6 +14,14 @@ local.properties
 .loadpath
 .recommenders
 
+MANIFEST.MF
+.classpath
+.project
+web.xml
+
+/Servers
+
+
 # External tool builders
 .externalToolBuilders/
 
